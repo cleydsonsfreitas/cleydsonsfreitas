@@ -5,7 +5,7 @@ __________________________
 
 Prazer em conhecê-lo(a) eu sou o Cleydson Soares de Freitas!
 
-Atualmente sou graduando no 3º semestre de **Segurança da Informação** na **Fatec Araraquara** e atuo ativamente na liderança acadêmica como **AWS Student Builder Group Leader (SBGL)**(https://builder.aws.com/).
+Atualmente sou graduando no 3º semestre de **Segurança da Informação** na **Fatec Araraquara** e atuo ativamente na liderança acadêmica como **AWS Student Builder Group Leader (SBGL)**.
 
 Meu foco de carreira e estudos está totalmente direcionado para a cultura **DevSecOps** e atuação em **Purple Team**, buscando integrar práticas sólidas de segurança, desenvolvimento e operações desde as primeiras etapas do ciclo de software. Também possuo forte engajamento em **GRC (Governança, Riscos e Compliance)** utilizando frameworks globais como ISO 27001 e NIST.
 
