@@ -31,6 +31,7 @@ __________________________
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=java,go,py,cs,c)](https://skillicons.dev)
+<br>
 *(Com foco principal e especializado no desenvolvimento e automações com Java)*
 
   Cloud, Containers e Virtualização:
