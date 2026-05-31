@@ -30,7 +30,8 @@ __________________________
   Linguagens e Frameworks:
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,java,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,go,py,cs,c)](https://skillicons.dev)
+*(Com foco principal e especializado no desenvolvimento e automações com Java)*
 
   Cloud, Containers e Virtualização:
 <br>
@@ -45,7 +46,7 @@ __________________________
   Ambientes de Desenvolvimento (IDEs) e Ecossistema Técnico:
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,clion,go,idea,rider,phpstorm,pycharm,webstorm,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,clion,idea,rider,phpstorm,pycharm,webstorm,postman)](https://skillicons.dev)
 
 __________________________
 
