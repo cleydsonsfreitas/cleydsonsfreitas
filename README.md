@@ -25,19 +25,26 @@ Aqui estão os pilares de segurança que estudo e aplico na prática através de
 * **Segurança Prática:** Mitigação e proteção contra ataques de Ransomware (CRPO) e hardening de sistemas em ambientes Linux (Kali Linux).
 
 __________________________
-
   Tecnologias e Ferramentas
 
   Linguagens e Frameworks:
+<br>
+
 [![My Skills](https://skillicons.dev/icons?i=c,cs,java,py)](https://skillicons.dev)
 
   Cloud, Containers e Virtualização:
+<br>
+
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,linux,cisco,oracle)](https://skillicons.dev)
 
   Controle de Versão:
+<br>
+
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
 
   Ambientes de Desenvolvimento (IDEs) e Ecossistema Técnico:
+<br>
+
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,clion,go,idea,rider,phpstorm,pycharm,webstorm,postman)](https://skillicons.dev)
 
 __________________________
