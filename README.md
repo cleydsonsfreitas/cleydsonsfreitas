@@ -37,7 +37,7 @@ __________________________
   Cloud, Containers e Virtualização:
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,linux,cisco,oracle)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,linux,kali,oracle)](https://skillicons.dev)
 
   Controle de Versão:
 <br>
