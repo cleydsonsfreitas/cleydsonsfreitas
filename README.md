@@ -1,61 +1,105 @@
-  Olá, eu sou o Cleydson!
-__________________________
+<div align="center">
 
-  Sobre mim
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=220&section=header&text=CLEYDSON%20FREITAS&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20AI%20%26%20Cloud%20Enthusiast&descSize=18&descColor=ff1a1a&descAlignY=55" width="100%"/>
 
-Prazer em conhecê-lo(a) eu sou o Cleydson Soares de Freitas!
+</div>
 
-Atualmente sou graduando no 3º semestre de **Segurança da Informação** na **Fatec Araraquara** e atuo ativamente na liderança acadêmica como **AWS Student Builder Group Leader (SBGL)**.
+<div align="center">
 
-Meu foco de carreira e estudos está totalmente direcionado para a cultura **DevSecOps** e atuação em **Purple Team**, buscando integrar práticas sólidas de segurança, desenvolvimento e operações desde as primeiras etapas do ciclo de software. Também possuo forte engajamento em **GRC (Governança, Riscos e Compliance)** utilizando frameworks globais como ISO 27001 e NIST.
+<img src="https://github.com/cleydsonfreitas.png" width="140" style="border-radius:50%; border:3px solid #ff1a1a;" alt="Cleydson Freitas"/>
 
-Acredito muito no poder da comunidade técnica, na automação inteligente e na busca contínua por soluções eficientes e seguras.
+# <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=500&color=FF1A1A&center=true&vCenter=true&width=440&lines=Hello%2C+my+name+is+Cleydson!;I+am+a+Backend+Developer!;I+am+a+Cloud+and+AI+enthusiast!" alt="Typing SVG" />
 
-É um prazer ter você por aqui!
+</div>
 
-__________________________
+---
 
- Especialidades em Segurança da Informação
+## 🚀 About me
 
-Aqui estão os pilares de segurança que estudo e aplico na prática através de laboratórios locais e certificações:
+- 🎓 Studying **Analysis and Systems Development** at UNINASSAU
+- 💼 Currently working as **Full Stack Intern** at **Oojo**
+- 🧠 Backend Developer focused on **Python**, **Django/DRF**, **FastAPI**, **PostgreSQL**, **Docker** and **AWS**
+- ⚙️ Passionate about **Artificial Intelligence**, **Cloud Computing** and **automating everything** that is possible
+- 🌱 Always learning new technologies and improving my engineering, design and curiosity
 
-* **DevSecOps & AppSec:** Integração de segurança em esteiras de desenvolvimento (CI/CD) e práticas de Desenvolvimento Seguro de Software.
-* **Defesa Cibernética e Operações:** Conhecimentos práticos de Analista SOC (ISO 17024 Ready) e monitoramento de segurança.
-* **Governança, Riscos e Compliance (GRC):** Alinhamento estratégico com os frameworks ISO/IEC 27001:2022 e NIST.
-* **Segurança Prática:** Mitigação e proteção contra ataques de Ransomware (CRPO) e hardening de sistemas em ambientes Linux (Kali Linux).
+---
 
-__________________________
-  Tecnologias e Ferramentas
+## 🧩 Tech Stack
 
-  Linguagens e Frameworks:
-<br>
+<div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,go,py,cs,c)](https://skillicons.dev)
-<br>
-*(Com foco principal e especializado no desenvolvimento e automações com Java)*
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,aws,terraform,linux,git,github,vscode,postman,nginx,c,cs,html,css,js" alt="Tech Stack" />
 
-  Cloud, Containers e Virtualização:
-<br>
+</div>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,linux,kali,eclipse)](https://skillicons.dev)
+---
 
-  Controle de Versão:
-<br>
+## 🎲 Tech Cube
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
+<div align="center">
 
-  Ambientes de Desenvolvimento (IDEs) e Ecossistema Técnico:
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2000&pause=300&color=FF1A1A&center=true&vCenter=true&lines=DEV;AWS;AI;BACK;CLOUD;CODE" alt="Tech Cube" />
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,clion,idea,rider,phpstorm,pycharm,webstorm,postman)](https://skillicons.dev)
+</div>
 
-__________________________
+---
 
- Contribuições e Colaboração
+## 🔗 Connect with me
 
-Estou sempre aberto a trocar ideias sobre automações de segurança, infraestrutura em nuvem, laboratórios de cibersegurança ou projetos de portfólio. Se quiser colaborar ou tiver sugestões, sinta-se à vontade para abrir uma issue ou enviar um pull request!
+<div align="center">
 
-__________________________
- Conecte-se comigo
+<table>
+  <tr>
+    <td align="center">
+      <a href="mailto:cleydsonsoaresdefreitas@gmail.com">
+        <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=000000&labelColor=8B0000" alt="Email"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/cleydsonfreitas/">
+        <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=000000&labelColor=8B0000" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://builder.aws.com/profile?tab=badges">
+        <img src="https://img.shields.io/badge/AWS%20BUILDER%20CENTER-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&color=000000&labelColor=8B0000" alt="AWS Builder Center"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin,gmail)](https://www.linkedin.com/in/cleydsonfreitas)
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=cleydsonfreitas&show_icons=true&theme=dark&bg_color=000000&border_color=ff1a1a&title_color=ff1a1a&icon_color=ff1a1a&text_color=ffffff&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cleydsonfreitas&theme=dark&background=000000&border=ff1a1a&stroke=ff1a1a&ring=ff1a1a&fire=ff1a1a&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff1a1a&sideLabels=ff1a1a&dates=ffffff" height="180" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cleydsonfreitas&theme=red-knight&bg_color=000000&color=ffffff&line=ff1a1a&point=ff1a1a&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=120&section=footer" width="100%"/>
+
+<br/>
+
+⭐ **From [cleydsonfreitas](https://github.com/cleydsonfreitas)**
+
+</div>
