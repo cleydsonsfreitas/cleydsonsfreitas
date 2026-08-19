@@ -6,7 +6,7 @@
 
 <!-- ═══════════  NOME  ═══════════ -->
 <div align="center">
-  <img width="500" src="https://raw.githubusercontent.com/melissaalves-stack/melissaalves-stack/main/name.png" alt="Melissa Alves" />
+  <img width="500" src="https://raw.githubusercontent.com/melissaalves-stack/melissaalves-stack/main/name.png" alt="Cleydson Soares de Freitas" />
 
   <br/>
 
