@@ -1,5 +1,5 @@
 <!--
-  Perfil — Melissa Alves  (rosa + preto)
+  Perfil — Cleydson Soares de Freitas  (rosa + preto)
   Raiz do repo "melissaalves-stack": README.md, name.png, banner.gif, trilha-cloud.png
   Cobrinha: .github/workflows/snake.yml
 -->
