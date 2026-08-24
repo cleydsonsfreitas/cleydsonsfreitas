@@ -1,7 +1,7 @@
 #  Olá, eu sou o Cleydson!
-__________________________
 
-##   Sobre mi
+
+##   Sobre mim
 
 Prazer em conhecê-lo(a) eu sou o Cleydson Soares de Freitas!
 
@@ -13,7 +13,6 @@ Acredito muito no poder da comunidade técnica, na automação inteligente e na 
 
 É um prazer ter você por aqui! 
 
-__________________________
 
 ##  Especialidades em Segurança da Informação
 
@@ -24,7 +23,7 @@ Aqui estão os pilares de segurança que estudo e aplico na prática através de
 * **Governança, Riscos e Compliance (GRC):** Alinhamento estratégico com os frameworks ISO/IEC 27001:2022 e NIST.
 * **Segurança Prática:** Mitigação e proteção contra ataques de Ransomware (CRPO) e hardening de sistemas em ambientes Linux (Kali Linux).
 
-__________________________
+
 
 ##  Tecnologias e Ferramentas
 
@@ -49,13 +48,12 @@ __________________________
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,clion,idea,rider,phpstorm,pycharm,webstorm,postman)](https://skillicons.dev)
 
-__________________________
+
 
 ## Contribuições e Colaboração
 
 Estou sempre aberto a trocar ideias sobre automações de segurança, infraestrutura em nuvem, laboratórios de cibersegurança ou projetos de portfólio. Se quiser colaborar ou tiver sugestões, sinta-se à vontade para abrir uma issue ou enviar um pull request!
 
-__________________________
 ## 🔗 Conecte-se comigo
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin,gmail)](https://www.linkedin.com/in/cleydsonfreitas)
