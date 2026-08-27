@@ -2,8 +2,8 @@
   
   <h1>Olá, eu sou o Cleydson! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy7/giphy.gif" width="30px"></h1>
 
-  <!-- Texto animado com cor personalizada (roxo #8A2BE2 para Purple Team e verde para DevSecOps) -->
-  <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Information+Security+Student;DevSecOps+%26+Purple+Team+Enthusiast;AWS+Student+Builder+Group+Leader" alt="Typing SVG" /></a>
+  <!-- Texto animado com cor verde terminal (#00FF00) -->
+  <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Information+Security+Student;DevSecOps+%26+Purple+Team+Enthusiast;AWS+Student+Builder+Group+Leader" alt="Typing SVG" /></a>
   
   <p>
     <b>Consultor e Cofundador na TRIADTEC</b> <br>
@@ -36,7 +36,6 @@ Meu foco de carreira está no universo **DevSecOps** e na cultura **Purple Team*
 
 ## 🚀 Projetos e Iniciativas Recentes
 
-<!-- Usando HTML para criar menus expansíveis interativos -->
 <details>
   <summary><b>🔥 Desafio 30 (Clique para expandir)</b></summary>
   <br>
@@ -59,10 +58,10 @@ Meu foco de carreira está no universo **DevSecOps** e na cultura **Purple Team*
 
 ## 📊 Estatísticas do GitHub
 
-<!-- Cards dinâmicos do GitHub (Troque "SEU_USUARIO" pelo seu @ do GitHub) -->
+<!-- Cards dinâmicos do GitHub atualizados com o usuário 'cleydsonfreitas' -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dracula&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cleydsonfreitas&show_icons=true&theme=dracula&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cleydsonfreitas&theme=dracula&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
 
 ---
@@ -94,10 +93,14 @@ Meu foco de carreira está no universo **DevSecOps** e na cultura **Purple Team*
   <a href="mailto:seuemail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://builder.aws.com/profile?tab=badges">
+    <img src="https://img.shields.io/badge/AWS%20Builder%20Center-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
 </div>
 
 <br>
 
 <p align="center">
+  <!-- Lembre-se de fazer o upload desta imagem no seu repositório para ela aparecer -->
   <img src="cleydsonsfreitas-QR-Code.png" width="150" alt="LinkedIn QR Code" />
 </p>
