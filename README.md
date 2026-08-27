@@ -31,6 +31,7 @@ Aqui estão os pilares de segurança que estudo e aplico na prática através de
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=java,go,py,cs,c)](https://skillicons.dev)
+
 *(Com foco principal e especializado no desenvolvimento e automações com Java)*
 
 ###  Cloud, Containers e Virtualização:
