@@ -1,65 +1,103 @@
-#  Olá, eu sou o Cleydson!
+<div align="center">
+  
+  <h1>Olá, eu sou o Cleydson! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy7/giphy.gif" width="30px"></h1>
 
+  <!-- Texto animado com cor personalizada (roxo #8A2BE2 para Purple Team e verde para DevSecOps) -->
+  <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Information+Security+Student;DevSecOps+%26+Purple+Team+Enthusiast;AWS+Student+Builder+Group+Leader" alt="Typing SVG" /></a>
+  
+  <p>
+    <b>Consultor e Cofundador na TRIADTEC</b> <br>
+    <i>Integrando desenvolvimento, operações e segurança.</i>
+  </p>
 
-##   Sobre mim
+</div>
 
-Prazer em conhecê-lo(a) eu sou o Cleydson Soares de Freitas!
-
-Atualmente sou graduando no 3º semestre de **Segurança da Informação** na **Fatec Araraquara** e atuo ativamente na liderança acadêmica como **AWS Student Builder Group Leader (SBGL)**[cite: 1].
-
-Meu foco de carreira e estudos está totalmente direcionado para a cultura **DevSecOps** e atuação em **Purple Team**, buscando integrar práticas sólidas de segurança, desenvolvimento e operações desde as primeiras etapas do ciclo de software. Também possuo forte engajamento em **GRC (Governança, Riscos e Compliance)** utilizando frameworks globais como ISO 27001 e NIST.
-
-Acredito muito no poder da comunidade técnica, na automação inteligente e na busca contínua por soluções eficientes e seguras.
-
-É um prazer ter você por aqui! 
-
-
-##  Especialidades em Segurança da Informação
-
-Aqui estão os pilares de segurança que estudo e aplico na prática através de laboratórios locais e certificações:
-
-* **DevSecOps & AppSec:** Integração de segurança em esteiras de desenvolvimento (CI/CD) e práticas de Desenvolvimento Seguro de Software.
-* **Defesa Cibernética e Operações:** Conhecimentos práticos de Analista SOC (ISO 17024 Ready) e monitoramento de segurança.
-* **Governança, Riscos e Compliance (GRC):** Alinhamento estratégico com os frameworks ISO/IEC 27001:2022 e NIST.
-* **Segurança Prática:** Mitigação e proteção contra ataques de Ransomware (CRPO) e hardening de sistemas em ambientes Linux (Kali Linux).
-
-
-
-##  Tecnologias e Ferramentas
-
-###  Linguagens e Frameworks:
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,go,py,cs,c)](https://skillicons.dev)
-*(Com foco principal e especializado no desenvolvimento e automações com Java)*
+## 🧑‍💻 Sobre mim
 
-###  Cloud, Containers e Virtualização:
-<br>
+Prazer em conhecê-lo(a)! Atualmente, curso o 3º semestre de **Segurança da Informação** na **Fatec Araraquara** e atuo como líder acadêmico no **AWS Student Builder Group Leader (SBGL)**.
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,linux,kali,eclipse)](https://skillicons.dev)
+Meu foco de carreira está no universo **DevSecOps** e na cultura **Purple Team**, construindo automações (principalmente em Java) e garantindo a segurança desde as primeiras etapas do ciclo de vida do software. Também possuo forte engajamento em **GRC (Governança, Riscos e Compliance)**, alinhando tecnologia a frameworks globais como ISO 27001 e NIST.
 
-###  Controle de Versão:
-<br>
+---
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
+## 🛠️ Especialidades e Foco de Estudo
 
-###  Ambientes de Desenvolvimento (IDEs) e Ecossistema Técnico:
-<br>
+<blockquote>
+  💡 <b>Filosofia de Segurança:</b> Acredito no poder da comunidade técnica, na automação inteligente e na busca contínua por soluções eficientes e seguras.
+</blockquote>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,clion,idea,rider,phpstorm,pycharm,webstorm,postman)](https://skillicons.dev)
+* **<kbd>DevSecOps & AppSec</kbd>**: Integração de segurança em esteiras CI/CD e Desenvolvimento Seguro de Software.
+* **<kbd>Defesa Cibernética</kbd>**: Conhecimentos práticos de Analista SOC (ISO 17024 Ready) e monitoramento.
+* **<kbd>Segurança Prática</kbd>**: Hardening de sistemas no **Kali Linux** e proteção contra Ransomware (CRPO).
 
+---
 
+## 🚀 Projetos e Iniciativas Recentes
 
-## Contribuições e Colaboração
+<!-- Usando HTML para criar menus expansíveis interativos -->
+<details>
+  <summary><b>🔥 Desafio 30 (Clique para expandir)</b></summary>
+  <br>
+  Iniciativa de desenvolvimento prático focada em construir um portfólio sólido. O projeto engloba a criação de 30 aplicações (10 fáceis, 10 médias e 10 difíceis) construídas em <b>Java</b>, aplicando lógica de programação, automação e práticas de segurança.
+</details>
 
-Estou sempre aberto a trocar ideias sobre automações de segurança, infraestrutura em nuvem, laboratórios de cibersegurança ou projetos de portfólio. Se quiser colaborar ou tiver sugestões, sinta-se à vontade para abrir uma issue ou enviar um pull request!
+<details>
+  <summary><b>🎓 Especialização Hackers do Bem</b></summary>
+  <br>
+  Participação ativa na trilha de especialização em DevSecOps, aprofundando conceitos de segurança nacional e corporativa aplicados ao ciclo de desenvolvimento.
+</details>
+
+<details>
+  <summary><b>🤝 Mentoria e Comunidade</b></summary>
+  <br>
+  Atuação direta no auxílio e desenvolvimento de profissionais iniciantes (incluindo mentoria prática) para a criação de portfólios e inserção no mercado de trabalho.
+</details>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<!-- Cards dinâmicos do GitHub (Troque "SEU_USUARIO" pelo seu @ do GitHub) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dracula&hide_border=true" height="150" alt="GitHub Streak" />
+</div>
+
+---
+
+## 💻 Tecnologias e Ferramentas
+
+<div align="center">
+  
+  <h3>Linguagens, Cloud e Containers</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,go,py,cs,c,aws,docker,linux,kali" />
+  </a>
+
+  <h3>Ferramentas, CI/CD e IDEs</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,eclipse,visualstudio,idea,postman" />
+  </a>
+
+</div>
+
+---
 
 ## 🔗 Conecte-se comigo
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin,gmail)](https://www.linkedin.com/in/cleydsonfreitas)
+<div align="center">
+  <a href="https://www.linkedin.com/in/cleydsonfreitas">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 <br>
 
-<p align="left">
-  <img src="cleydsonsfreitas-QR-Code.png" width="180" alt="LinkedIn QR Code" />
+<p align="center">
+  <img src="cleydsonsfreitas-QR-Code.png" width="150" alt="LinkedIn QR Code" />
 </p>
